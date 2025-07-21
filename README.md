@@ -99,15 +99,6 @@ The Automatic Night Light Controller demonstrates how digital logic gates and an
 
 ---
 
-## 📚 References
-
-1. Floyd, T. L. (2014). *Digital Fundamentals* (11th ed.). Pearson.  
-2. Horowitz, P., & Hill, W. (2015). *The Art of Electronics* (3rd ed.). Cambridge University Press.  
-3. Scherz, P., & Monk, S. (2016). *Practical Electronics for Inventors* (4th ed.). McGraw-Hill.  
-4. IEEE Std 1888 – *IEEE Guide for Sustainable Energy Use* (2020).  
-5. Gershenfeld, N. (2000). *The Physics of Information Technology*. Cambridge University Press.  
-
----
 
 ## 📄 License
 
